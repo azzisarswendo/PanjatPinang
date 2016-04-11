@@ -10,7 +10,7 @@ set_include_path(implode(PATH_SEPARATOR, array(
 	realpath(LIB_PATH),
 )));
 
-//PanjatPinang Construct
+//including PanjatPinang Construct
 require_once "PanjatPinang/Construct.php";
 
 //run a Construct
